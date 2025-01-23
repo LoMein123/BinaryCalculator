@@ -109,7 +109,6 @@ public class BinaryTest
 		Binary binary3=Binary.add(binary1,binary2);
         assertTrue( binary3.getValue().equals("1010"));
     }
-
 	/**
      * Test The add functions with two zeros
      */
